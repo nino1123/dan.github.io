@@ -1,6 +1,6 @@
 # 学习 #
-## Grade 1 master-学习 ## <br>
-&emsp;&emsp; ## Perl ## <br>
+## Grade 1 master-学习  <br>
+&emsp;&emsp; ## Perl  <br>
 &emsp;&emsp; ## Python ## <br>
 &emsp;&emsp; ## 语料库语言学 ## <br>
 &emsp;&emsp; ## 计算语言学 ## <br>
@@ -14,7 +14,7 @@
 &emsp;&emsp; ## 语言模型！！至少懂可复现 ## <br>
 
 # 工作 # 
-## Grade 1 master 工作 ## <br>
+## Grade 1 master 工作  <br>
 &emsp;&emsp; ## 搭配语言资源 ## <br>
 &emsp;&emsp; ## 规则 ## <br>
 &emsp;&emsp; ## 文本处理coding ## <br>
@@ -24,7 +24,7 @@
 &emsp;&emsp; ## coding ## <br>
 
 # 生活 #
-## Grade 1、2 master 生活 ## <br>
+## Grade 1、2 master 生活  <br>
 &emsp;&emsp; ## 闲书清单 ## <br>
 &emsp;&emsp; ## 电影清单 ## <br>
 &emsp;&emsp; ## 闲逛清单 ## <br>
